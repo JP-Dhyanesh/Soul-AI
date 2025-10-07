@@ -1,0 +1,402 @@
+[
+  {
+    "prompt": "The user looks neutral and says 'I don't feel much either way.'\nResponse:",
+    "response": "Sometimes neutral days can be restful."
+  },
+  {
+    "prompt": "The user looks surprised and says 'That came out of nowhere!'\nResponse:",
+    "response": "That\u2019s definitely surprising!"
+  },
+  {
+    "prompt": "The user looks happy and says 'Today was full of good vibes.'\nResponse:",
+    "response": "Sounds like you had a great time!"
+  },
+  {
+    "prompt": "The user looks angry and says 'I can't stand this anymore.'\nResponse:",
+    "response": "Anger is valid. Let's find a way to work through it."
+  },
+  {
+    "prompt": "The user looks fearful and says 'What if something bad happens?'\nResponse:",
+    "response": "I understand your fear\u2014want to talk more?"
+  },
+  {
+    "prompt": "The user looks surprised and says 'Whoa, I didn\u2019t expect that!'\nResponse:",
+    "response": "Interesting! What happened next?"
+  },
+  {
+    "prompt": "The user looks angry and says 'I can't stand this anymore.'\nResponse:",
+    "response": "Anger is valid. Let's find a way to work through it."
+  },
+  {
+    "prompt": "The user looks surprised and says 'Wow, that was unexpected!'\nResponse:",
+    "response": "Wow! That must have caught you off guard!"
+  },
+  {
+    "prompt": "The user looks surprised and says 'Wow, that was unexpected!'\nResponse:",
+    "response": "Wow! That must have caught you off guard!"
+  },
+  {
+    "prompt": "The user looks fearful and says 'I'm really anxious right now.'\nResponse:",
+    "response": "Try to breathe slowly. You\u2019ve got this."
+  },
+  {
+    "prompt": "The user looks disgusted and says 'Ugh, that\u2019s so gross.'\nResponse:",
+    "response": "Ugh, I get why you'd feel that way."
+  },
+  {
+    "prompt": "The user looks disgusted and says 'This makes me feel sick.'\nResponse:",
+    "response": "Ugh, I get why you'd feel that way."
+  },
+  {
+    "prompt": "The user looks happy and says 'Everything went perfectly!'\nResponse:",
+    "response": "I'm really glad you're feeling good!"
+  },
+  {
+    "prompt": "The user looks angry and says 'This is so frustrating!'\nResponse:",
+    "response": "I can see why you'd be upset. Do you want to talk about it?"
+  },
+  {
+    "prompt": "The user looks sad and says 'I just can't stop crying.'\nResponse:",
+    "response": "You\u2019re not alone. Want to talk more about it?"
+  },
+  {
+    "prompt": "The user looks surprised and says 'Whoa, I didn\u2019t expect that!'\nResponse:",
+    "response": "That\u2019s definitely surprising!"
+  },
+  {
+    "prompt": "The user looks neutral and says 'Things are okay, I guess.'\nResponse:",
+    "response": "That sounds pretty normal\u2014anything you\u2019d like to change?"
+  },
+  {
+    "prompt": "The user looks angry and says 'Why does this always happen to me?'\nResponse:",
+    "response": "Anger is valid. Let's find a way to work through it."
+  },
+  {
+    "prompt": "The user looks angry and says 'I'm really mad right now.'\nResponse:",
+    "response": "It\u2019s okay to feel frustrated. I\u2019m here with you."
+  },
+  {
+    "prompt": "The user looks sad and says 'I just can't stop crying.'\nResponse:",
+    "response": "I'm really sorry you're feeling this way."
+  },
+  {
+    "prompt": "The user looks happy and says 'Today was full of good vibes.'\nResponse:",
+    "response": "Sounds like you had a great time!"
+  },
+  {
+    "prompt": "The user looks disgusted and says 'Ugh, that\u2019s so gross.'\nResponse:",
+    "response": "That must have been uncomfortable."
+  },
+  {
+    "prompt": "The user looks neutral and says 'It\u2019s all the same every day.'\nResponse:",
+    "response": "It\u2019s okay to have a quiet day."
+  },
+  {
+    "prompt": "The user looks happy and says 'What an amazing day!'\nResponse:",
+    "response": "I'm really glad you're feeling good!"
+  },
+  {
+    "prompt": "The user looks sad and says 'I just can't stop crying.'\nResponse:",
+    "response": "That sounds really tough. I\u2019m here to help."
+  },
+  {
+    "prompt": "The user looks angry and says 'I'm really mad right now.'\nResponse:",
+    "response": "Deep breaths\u2014I'm here to help you through this."
+  },
+  {
+    "prompt": "The user looks happy and says 'Today was full of good vibes.'\nResponse:",
+    "response": "I'm really glad you're feeling good!"
+  },
+  {
+    "prompt": "The user looks sad and says 'Nothing seems to be going right.'\nResponse:",
+    "response": "I'm really sorry you're feeling this way."
+  },
+  {
+    "prompt": "The user looks surprised and says 'Wow, that was unexpected!'\nResponse:",
+    "response": "Wow! That must have caught you off guard!"
+  },
+  {
+    "prompt": "The user looks happy and says 'What an amazing day!'\nResponse:",
+    "response": "Keep that positive energy going!"
+  },
+  {
+    "prompt": "The user looks surprised and says 'I never saw that coming!'\nResponse:",
+    "response": "Wow! That must have caught you off guard!"
+  },
+  {
+    "prompt": "The user looks happy and says 'What an amazing day!'\nResponse:",
+    "response": "Sounds like you had a great time!"
+  },
+  {
+    "prompt": "The user looks disgusted and says 'I can\u2019t even look at it.'\nResponse:",
+    "response": "Ugh, I get why you'd feel that way."
+  },
+  {
+    "prompt": "The user looks fearful and says 'I'm really anxious right now.'\nResponse:",
+    "response": "I understand your fear\u2014want to talk more?"
+  },
+  {
+    "prompt": "The user looks disgusted and says 'This makes me feel sick.'\nResponse:",
+    "response": "Yikes, that does sound unpleasant."
+  },
+  {
+    "prompt": "The user looks disgusted and says 'Why would anyone do that?'\nResponse:",
+    "response": "I hope you don\u2019t have to experience that again."
+  },
+  {
+    "prompt": "The user looks disgusted and says 'Ugh, that\u2019s so gross.'\nResponse:",
+    "response": "Ugh, I get why you'd feel that way."
+  },
+  {
+    "prompt": "The user looks fearful and says 'I can\u2019t stop thinking about the worst.'\nResponse:",
+    "response": "I understand your fear\u2014want to talk more?"
+  },
+  {
+    "prompt": "The user looks sad and says 'I just can't stop crying.'\nResponse:",
+    "response": "Take your time\u2014I'm listening."
+  },
+  {
+    "prompt": "The user looks surprised and says 'I\u2019m honestly shocked.'\nResponse:",
+    "response": "Interesting! What happened next?"
+  },
+  {
+    "prompt": "The user looks disgusted and says 'This makes me feel sick.'\nResponse:",
+    "response": "I hope you don\u2019t have to experience that again."
+  },
+  {
+    "prompt": "The user looks surprised and says 'That came out of nowhere!'\nResponse:",
+    "response": "Interesting! What happened next?"
+  },
+  {
+    "prompt": "The user looks angry and says 'Why does this always happen to me?'\nResponse:",
+    "response": "Let\u2019s try to take a step back together."
+  },
+  {
+    "prompt": "The user looks disgusted and says 'This makes me feel sick.'\nResponse:",
+    "response": "That reaction makes sense\u2014sounds gross!"
+  },
+  {
+    "prompt": "The user looks neutral and says 'Just an average day, nothing special.'\nResponse:",
+    "response": "Everyday moments are important too."
+  },
+  {
+    "prompt": "The user looks sad and says 'I feel like giving up.'\nResponse:",
+    "response": "You\u2019re not alone. Want to talk more about it?"
+  },
+  {
+    "prompt": "The user looks happy and says 'Everything went perfectly!'\nResponse:",
+    "response": "I'm really glad you're feeling good!"
+  },
+  {
+    "prompt": "The user looks neutral and says 'Meh, not much going on.'\nResponse:",
+    "response": "That sounds pretty normal\u2014anything you\u2019d like to change?"
+  },
+  {
+    "prompt": "The user looks angry and says 'This is so frustrating!'\nResponse:",
+    "response": "Anger is valid. Let's find a way to work through it."
+  },
+  {
+    "prompt": "The user looks disgusted and says 'Why would anyone do that?'\nResponse:",
+    "response": "That must have been uncomfortable."
+  },
+  {
+    "prompt": "The user looks disgusted and says 'That was absolutely disgusting.'\nResponse:",
+    "response": "That reaction makes sense\u2014sounds gross!"
+  },
+  {
+    "prompt": "The user looks sad and says 'I feel so alone.'\nResponse:",
+    "response": "You\u2019re not alone. Want to talk more about it?"
+  },
+  {
+    "prompt": "The user looks angry and says 'Why does this always happen to me?'\nResponse:",
+    "response": "Let\u2019s try to take a step back together."
+  },
+  {
+    "prompt": "The user looks angry and says 'Everything is getting on my nerves.'\nResponse:",
+    "response": "It\u2019s okay to feel frustrated. I\u2019m here with you."
+  },
+  {
+    "prompt": "The user looks fearful and says 'I'm really anxious right now.'\nResponse:",
+    "response": "Try to breathe slowly. You\u2019ve got this."
+  },
+  {
+    "prompt": "The user looks surprised and says 'I\u2019m honestly shocked.'\nResponse:",
+    "response": "Unexpected things can be fun or confusing\u2014how do you feel about it?"
+  },
+  {
+    "prompt": "The user looks disgusted and says 'That was absolutely disgusting.'\nResponse:",
+    "response": "Yikes, that does sound unpleasant."
+  },
+  {
+    "prompt": "The user looks neutral and says 'Things are okay, I guess.'\nResponse:",
+    "response": "Everyday moments are important too."
+  },
+  {
+    "prompt": "The user looks disgusted and says 'Why would anyone do that?'\nResponse:",
+    "response": "That must have been uncomfortable."
+  },
+  {
+    "prompt": "The user looks neutral and says 'It\u2019s all the same every day.'\nResponse:",
+    "response": "Thanks for sharing. Even uneventful days matter."
+  },
+  {
+    "prompt": "The user looks disgusted and says 'This makes me feel sick.'\nResponse:",
+    "response": "I hope you don\u2019t have to experience that again."
+  },
+  {
+    "prompt": "The user looks neutral and says 'Things are okay, I guess.'\nResponse:",
+    "response": "That sounds pretty normal\u2014anything you\u2019d like to change?"
+  },
+  {
+    "prompt": "The user looks sad and says 'I feel like giving up.'\nResponse:",
+    "response": "That sounds really tough. I\u2019m here to help."
+  },
+  {
+    "prompt": "The user looks disgusted and says 'Ugh, that\u2019s so gross.'\nResponse:",
+    "response": "Yikes, that does sound unpleasant."
+  },
+  {
+    "prompt": "The user looks fearful and says 'This is terrifying.'\nResponse:",
+    "response": "You\u2019re not alone. I\u2019m with you."
+  },
+  {
+    "prompt": "The user looks angry and says 'I'm really mad right now.'\nResponse:",
+    "response": "I can see why you'd be upset. Do you want to talk about it?"
+  },
+  {
+    "prompt": "The user looks sad and says 'I just can't stop crying.'\nResponse:",
+    "response": "Take your time\u2014I'm listening."
+  },
+  {
+    "prompt": "The user looks sad and says 'I'm emotionally drained.'\nResponse:",
+    "response": "That sounds really tough. I\u2019m here to help."
+  },
+  {
+    "prompt": "The user looks neutral and says 'Just an average day, nothing special.'\nResponse:",
+    "response": "It\u2019s okay to have a quiet day."
+  },
+  {
+    "prompt": "The user looks disgusted and says 'Ugh, that\u2019s so gross.'\nResponse:",
+    "response": "Yikes, that does sound unpleasant."
+  },
+  {
+    "prompt": "The user looks disgusted and says 'That was absolutely disgusting.'\nResponse:",
+    "response": "That reaction makes sense\u2014sounds gross!"
+  },
+  {
+    "prompt": "The user looks fearful and says 'This is terrifying.'\nResponse:",
+    "response": "I understand your fear\u2014want to talk more?"
+  },
+  {
+    "prompt": "The user looks disgusted and says 'That was absolutely disgusting.'\nResponse:",
+    "response": "That reaction makes sense\u2014sounds gross!"
+  },
+  {
+    "prompt": "The user looks surprised and says 'I never saw that coming!'\nResponse:",
+    "response": "Sounds like quite the surprise!"
+  },
+  {
+    "prompt": "The user looks sad and says 'Nothing seems to be going right.'\nResponse:",
+    "response": "Take your time\u2014I'm listening."
+  },
+  {
+    "prompt": "The user looks fearful and says 'What if something bad happens?'\nResponse:",
+    "response": "We\u2019ll get through this together."
+  },
+  {
+    "prompt": "The user looks sad and says 'I feel so alone.'\nResponse:",
+    "response": "It's okay to feel sad sometimes\u2014I'm here for you."
+  },
+  {
+    "prompt": "The user looks happy and says 'I'm so excited!'\nResponse:",
+    "response": "Keep that positive energy going!"
+  },
+  {
+    "prompt": "The user looks angry and says 'I'm really mad right now.'\nResponse:",
+    "response": "I can see why you'd be upset. Do you want to talk about it?"
+  },
+  {
+    "prompt": "The user looks fearful and says 'I'm really anxious right now.'\nResponse:",
+    "response": "We\u2019ll get through this together."
+  },
+  {
+    "prompt": "The user looks sad and says 'I just can't stop crying.'\nResponse:",
+    "response": "That sounds really tough. I\u2019m here to help."
+  },
+  {
+    "prompt": "The user looks neutral and says 'It\u2019s all the same every day.'\nResponse:",
+    "response": "It\u2019s okay to have a quiet day."
+  },
+  {
+    "prompt": "The user looks sad and says 'I feel like giving up.'\nResponse:",
+    "response": "It's okay to feel sad sometimes\u2014I'm here for you."
+  },
+  {
+    "prompt": "The user looks happy and says 'Today was full of good vibes.'\nResponse:",
+    "response": "Keep that positive energy going!"
+  },
+  {
+    "prompt": "The user looks neutral and says 'Things are okay, I guess.'\nResponse:",
+    "response": "Sometimes neutral days can be restful."
+  },
+  {
+    "prompt": "The user looks angry and says 'Why does this always happen to me?'\nResponse:",
+    "response": "Deep breaths\u2014I'm here to help you through this."
+  },
+  {
+    "prompt": "The user looks fearful and says 'What if something bad happens?'\nResponse:",
+    "response": "You\u2019re not alone. I\u2019m with you."
+  },
+  {
+    "prompt": "The user looks neutral and says 'Just an average day, nothing special.'\nResponse:",
+    "response": "Sometimes neutral days can be restful."
+  },
+  {
+    "prompt": "The user looks angry and says 'I'm really mad right now.'\nResponse:",
+    "response": "Deep breaths\u2014I'm here to help you through this."
+  },
+  {
+    "prompt": "The user looks happy and says 'What an amazing day!'\nResponse:",
+    "response": "Happiness is contagious\u2014thank you for sharing!"
+  },
+  {
+    "prompt": "The user looks neutral and says 'It\u2019s all the same every day.'\nResponse:",
+    "response": "Everyday moments are important too."
+  },
+  {
+    "prompt": "The user looks sad and says 'I feel like giving up.'\nResponse:",
+    "response": "I'm really sorry you're feeling this way."
+  },
+  {
+    "prompt": "The user looks disgusted and says 'Ugh, that\u2019s so gross.'\nResponse:",
+    "response": "I hope you don\u2019t have to experience that again."
+  },
+  {
+    "prompt": "The user looks surprised and says 'I\u2019m honestly shocked.'\nResponse:",
+    "response": "Sounds like quite the surprise!"
+  },
+  {
+    "prompt": "The user looks fearful and says 'I\u2019m scared about what\u2019s going to happen.'\nResponse:",
+    "response": "We\u2019ll get through this together."
+  },
+  {
+    "prompt": "The user looks happy and says 'I'm so excited!'\nResponse:",
+    "response": "I'm really glad you're feeling good!"
+  },
+  {
+    "prompt": "The user looks disgusted and says 'Why would anyone do that?'\nResponse:",
+    "response": "That must have been uncomfortable."
+  },
+  {
+    "prompt": "The user looks sad and says 'I just can't stop crying.'\nResponse:",
+    "response": "It's okay to feel sad sometimes\u2014I'm here for you."
+  },
+  {
+    "prompt": "The user looks surprised and says 'I\u2019m honestly shocked.'\nResponse:",
+    "response": "Interesting! What happened next?"
+  },
+  {
+    "prompt": "The user looks surprised and says 'That came out of nowhere!'\nResponse:",
+    "response": "Unexpected things can be fun or confusing\u2014how do you feel about it?"
+  }
+]
