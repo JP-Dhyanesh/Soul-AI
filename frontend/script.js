@@ -10,7 +10,7 @@ async function sendMessage() {
     userInput.value = "";
 
     try {
-        const response = await fetch("https://soul-ai.onrender.com/chat", {
+        const response = await fetch("https://soul-ai-1.onrender.com/chat", {
             method: "POST",
             headers: { "Content-Type": "application/json" },
             body: JSON.stringify({ message: message })
