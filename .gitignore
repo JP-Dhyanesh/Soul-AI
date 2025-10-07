@@ -1,0 +1,10 @@
+# Ignore environment variables
+.env
+
+# Ignore Python cache
+__pycache__/
+
+# Ignore other unwanted files
+*.pyc
+*.pyo
+*.pyd
